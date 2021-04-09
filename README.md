@@ -61,12 +61,18 @@ Further reading on my adventures building these:
 
 ## Bill of Materials
 
-Here's the [Bill of Materials (BOM)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/reinauer/68040-to-68060/main/bom.html).
+Here's the [Bill of Materials (BOM)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tkurbad/68040-to-68060/main/bom.html).
 
 ## Make your own
 
+Design by Stefan Reinauer
+
 * [PCBWay](https://www.pcbway.com/project/shareproject/68040_to_68060_adapter.html)
 * [OSHpark](https://oshpark.com/shared_projects/q8HjYPrh)
+
+This fork's design (don't know if it'll work this way)
+
+* [JLCPCB](https://cart.jlcpcb.com/quote?uploadNum=e3c08ddedc5e4b5f9d1ccca74e3f3c49&businessType=example&fileName=Gerber)
 
 ## Credits
 
