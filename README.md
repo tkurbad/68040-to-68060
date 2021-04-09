@@ -7,14 +7,15 @@ is enough physical clearance.
 ## About
 
 This work is a derivative of the 68040 to 68060 adapter
-by richx which in turn is based on a 2013 design from
+by @reinauer which is a derivative from the work of richx from the
+English Amiga Board which in turn is based on a 2013 design from
 the a1k.org forum.
 
 At the time of this writing, the original kicad project
 can be found at https://eab.abime.net/showthread.php?t=100942
 
 The differences between this design and the original KiCAD
-version are:
+version are (My contributions in **bold**):
 
   - Moved the inner 4-pin connector in line with the substrate
     and the pins of the PGA socket. This allows to use sockets
@@ -24,6 +25,15 @@ version are:
   - use 0603 4.7k resistor networks instead of 0805 resistors to
     clean up the space and have fewer parts to solder
   - move all three diodes in line for easier soldering
+  - **widen all socket pin holes from 1.4 mm to 1.5 mm to allow inserting
+    single socket pins further down to gain some length for better contact**
+  - **for the upper PCB, swap the GND and 3.3V layers to have the GND layer on
+    top**
+  - **use 0805 sized capacitors**
+  - **substitute the THT voltage regulator by its SMD variant**
+  - **remove some unnecessary vias, do some rerouting, don't use insanely wide
+    traces**
+  - **write out all contributors to the silk screen**
 
 ## Assembly
 
