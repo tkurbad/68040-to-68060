@@ -33,7 +33,7 @@ version are (My contributions in **bold**):
   - **substitute the THT voltage regulator by its SMD variant**
   - **remove some unnecessary vias, do some rerouting, don't use insanely wide
     traces**
-  - **write out all contributors to the silk screen**
+  - **write out all contributors on the silk screen**
 
 ## Assembly
 
