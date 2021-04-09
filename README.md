@@ -7,7 +7,7 @@ is enough physical clearance.
 ## About
 
 This work is a derivative of the 68040 to 68060 adapter by
-(https://github.com/reinauer/68040-to-68060)[reinauer] which is a derivative
+[reinauer](https://github.com/reinauer/68040-to-68060) which is a derivative
 of the work of richx from the English Amiga Board which in turn is based on a
 2013 design from the a1k.org forum.
 
