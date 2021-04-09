@@ -6,10 +6,10 @@ is enough physical clearance.
 
 ## About
 
-This work is a derivative of the 68040 to 68060 adapter
-by @reinauer which is a derivative from the work of richx from the
-English Amiga Board which in turn is based on a 2013 design from
-the a1k.org forum.
+This work is a derivative of the 68040 to 68060 adapter by
+(https://github.com/reinauer/68040-to-68060)[reinauer] which is a derivative
+of the work of richx from the English Amiga Board which in turn is based on a
+2013 design from the a1k.org forum.
 
 At the time of this writing, the original kicad project
 can be found at https://eab.abime.net/showthread.php?t=100942
