@@ -1,6 +1,6 @@
-update=Do 08 Apr 2021 00:48:03 CEST
+update=Do 20 Mai 2021 09:41:29 CEST
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -36,6 +36,8 @@ TrackWidth5=3
 TrackWidth6=4
 ViaDiameter1=0.8
 ViaDrill1=0.4
+ViaDiameter2=1
+ViaDrill2=0.6
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -232,7 +234,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.1524
+Clearance=0.2
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
